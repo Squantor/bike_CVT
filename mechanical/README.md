@@ -1,2 +1,2 @@
-# Bicycle Continuous Variable Transmission mechanical components
-* Test and verification jig
+# Bicycle Continuously Variable Transmission mechanical components
+* [Test and verification jig](verification_jig/README.md)
