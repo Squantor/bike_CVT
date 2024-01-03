@@ -1,3 +1,6 @@
 [submodule "electronics/squantorPcbLibrary"]
 	path = electronics/squantorPcbLibrary
 	url = git@github.com:Squantor/squantorPcbLibrary.git
+[submodule "electronics/ki-lime-pi-pico"]
+	path = electronics/ki-lime-pi-pico
+	url = git@github.com:Squantor/ki-lime-pi-pico.git
